@@ -1,0 +1,6 @@
+#ifndef _exeicon_
+#define _exeicon_
+
+IDI_ICON1 ICON DISCARDABLE "Resources/edit.ico"
+
+#endif

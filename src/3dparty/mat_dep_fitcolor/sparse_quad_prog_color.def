@@ -1,0 +1,8 @@
+LIBRARY sparse_quad_prog_color
+EXPORTS
+sparse_quad_prog_colorInitialize
+sparse_quad_prog_colorInitializeWithHandlers
+sparse_quad_prog_colorTerminate
+sparse_quad_prog_colorPrintStackTrace
+mlxSparse_quad_prog_color
+

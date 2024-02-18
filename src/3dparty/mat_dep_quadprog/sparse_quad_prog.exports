@@ -1,0 +1,6 @@
+sparse_quad_progInitialize
+sparse_quad_progInitializeWithHandlers
+sparse_quad_progTerminate
+sparse_quad_progPrintStackTrace
+mlxSparse_quad_prog
+
